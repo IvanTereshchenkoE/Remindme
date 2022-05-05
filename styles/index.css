@@ -252,7 +252,7 @@ h2 {
 
 /* section-advantages ------------------------------------------------------------*/
 
-.container-dedescription {
+.container-description {
   height: 500px;
   width: 100%;
 }
@@ -282,20 +282,20 @@ h2 {
   border-radius: 0 80px 80px 0;
 }
 
-.section-description-1 .container-dedescription .right-column {
+.section-description-1 .container-description .right-column {
   padding-top: 100px;
   padding-bottom: 100px;
   margin-left: 100px;
   margin-right: 100px;
 }
 
-.section-description-1 .background-dedescription-1 {
+.section-description-1 .background-description-1 {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("/img/app-disription-1-bg.png") 50% 50% no-repeat;
+  background: url("/img/app-description-1-bg.png") 50% 50% no-repeat;
   background-size: cover;
 }
 
@@ -313,13 +313,13 @@ h2 {
   border-radius: 80px 0 0 80px;
 }
 
-.section-description-2 .background-dedescription-1 {
+.section-description-2 .background-description-1 {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("/img/app-disription-2-bg.png") 50% 50% no-repeat;
+  background: url("/img/app-description-2-bg.png") 50% 50% no-repeat;
   background-size: cover;
 }
 
